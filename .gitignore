@@ -98,3 +98,4 @@ ENV/
 # Pycharm project settings
 .idea
 eos.iml
+/phobos_tq_en-us
